@@ -43,6 +43,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
-```
-
-Lembre-se de personalizar este README.md com informações específicas do seu projeto e fornecer links reais para as páginas relacionadas, como as páginas de distribuições populares.
